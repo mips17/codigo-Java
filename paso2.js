@@ -16,3 +16,9 @@ const arbolito="Juan"
 console.log("hola "+arbolito)
 
 console.log(typeof(hulk))
+
+let a = 0
+while(true){
+    a+= 1
+    console.log(a)
+}
